@@ -6,7 +6,7 @@ int main(void){
         float i, j;
         i = 5.7; j = -2.4;
  
-        printf("\n format specifications for int values in language C");
+        printf("\n format specifications for float values in language C");
         printf("\n-----------------------------------------------------");
         printf("\n\n printing variables i=5.7,j=2.4\n\n");
         printf("\nformat specification %cf anf %c6f ->|%f|%f|%6f|%6f|", '%', '%', i, j, i, j);
