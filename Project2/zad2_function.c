@@ -17,7 +17,7 @@ int main(){
 		y = (a*x) / (4 - x);
 	}
 
-	if (x >= m2){
+	if (x > m2){
 		y = c + x;
 	}
 
