@@ -9,7 +9,7 @@ int main(void){
         printf("\n format specifications for float values in language C");
         printf("\n-----------------------------------------------------");
         printf("\n\n printing variables i=5.7,j=2.4\n\n");
-        printf("\nformat specification %cf anf %c6f ->|%f|%f|%6f|%6f|", '%', '%', i, j, i, j);
+        printf("\nformat specification %cf and %c6f ->|%f|%f|%6f|%6f|", '%', '%', i, j, i, j);
         printf("\nnformat specification %c.6f %c1f ->|%.6f|%.6f|%1f|%1f|", '%', '%', i, j, i, j);
         printf("\normat specification %c+6f ->|%+6f|%+6f|", '%', i, j);
         printf("\nformat specification %c-6f ->|%+06f|%-06f|", '%', i, j);
