@@ -23,7 +23,7 @@ int main(){
 			printf("Korenite sa ravni: x1=%.2f i x2=%.2f", r1, r2);
 		}
 		else {
-			printf("Nqma koreni");
+			printf("Nqma realni koreni");
 		}
 	}
 
